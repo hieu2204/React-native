@@ -4,5 +4,5 @@
 ![SectionList-2](https://github.com/user-attachments/assets/5955b6bf-2243-40e7-a1bc-2c01df0d0d0a)
 ![SectionList-1](https://github.com/user-attachments/assets/cd302a44-fcc5-48a1-94ce-4b4429d2db86)
 ![SectionList-3](https://github.com/user-attachments/assets/6b77d3be-11f9-4289-b0ea-365eea086528)
-D:\React-native\images\Scan.jpg
-D:\React-native\images\Home.jpg
+![Scan](https://github.com/user-attachments/assets/06084ae4-ec29-4d52-b63c-4ffdc40c1b65)
+![Home](https://github.com/user-attachments/assets/148ba28c-b7a0-466c-b3ef-9f051dbbb9e7)
