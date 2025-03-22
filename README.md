@@ -1,4 +1,6 @@
 # React-native
+![Payment](https://github.com/user-attachments/assets/69fcc313-27d0-4dc7-9f28-2fe9c9f1d998)
+![PaymentSucess](https://github.com/user-attachments/assets/f0298035-20bb-4592-97d1-4e2f28cc7830)
 <img src="D:\React-native\images\exercise.jpg" alt="Custom component" />
 <img src="D:\React-native\images\exercise2.jpg" alt="FlatList" />
 ![SectionList-2](https://github.com/user-attachments/assets/5955b6bf-2243-40e7-a1bc-2c01df0d0d0a)
