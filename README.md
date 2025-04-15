@@ -1,4 +1,27 @@
 # React-native
+ API là gì?
+API (Application Programming Interface): là giao diện lập trình cho phép các phần mềm giao tiếp với nhau.
+
+Trong lập trình mobile/web, API giúp ứng dụng client (như React Native app) giao tiếp với server để lấy/gửi dữ liệu.
+
+REST API là gì?
+REST (Representational State Transfer) là một kiểu kiến trúc API phổ biến.
+
+REST API sử dụng các phương thức HTTP: GET, POST, PUT, DELETE, v.v... để thao tác với tài nguyên (dữ liệu).
+
+Dữ liệu thường được truyền qua định dạng JSON.
+
+Gọi API trong React Native như thế nào?
+React Native hỗ trợ gọi API bằng các phương pháp phổ biến như:
+
+fetch: hàm có sẵn trong JS.
+
+axios: thư viện mạnh mẽ, dễ dùng hơn fetch.
+Tiêu chí           |         fetch          |      axios
+Mặc định có sẵn    | ✅ Có sẵn trong JS    |  ❌ Cần cài thêm
+Tự động parse JSON | ❌ Phải gọi .json()   |  ✅ Tự động parse
+Xử lý lỗi          | ❌ Cần xử lý thủ công |  ✅ Xử lý lỗi dễ hơn
+Gửi dữ liệu form   | Khó cấu hình hơn       | Cấu hình rất linh hoạt
 ![z6476369534714_cb32ef68bdf7c1765c17fa734b1c0b1e](https://github.com/user-attachments/assets/cd381ca4-6f28-4a77-a463-8c0292e3957c)
 ![z6476364340165_42d0f2b45c40ecbbc010f78a0e07ca33](https://github.com/user-attachments/assets/e052fe97-3532-499f-9ee2-fd4898dbf07e)
 ![z6476364326560_e6d71ada8806188a68179ead71657588](https://github.com/user-attachments/assets/10a455a7-a46e-4fd2-8893-63e4f58fd11a)
